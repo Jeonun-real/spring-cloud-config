@@ -1,6 +1,6 @@
 token:
   expiration-time: 864000 # day1
-  secret: this is a default secret from config server - busrefresh test2
+  secret: this is a default secret from config server - busrefresh test
 
 gateway:
   ip: 192.168.0.100 # 테스트용 임의값
