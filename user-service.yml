@@ -7,4 +7,4 @@ spring:
     password: '{cipher}AYAa3SuV1Kd5w3LkD5c2mRu2B3z51CsRym5UZhrzNMA8Izce3uQ5S+tt56lmj0SDfQgljElatyR3Ekoe9gVFuwSMU9ks3MMIjlIVAFQDS6b3AhlThlkzsk4TFaHqEyHlPaOfBoxkXH1KO1ji4i61h3PH5g7xjXJeA1JcquKHIO7qUJcSAaQBiQuEX3Ua7YKemLFpFIlaX17Qg7bbn488FRYldtQn52Vhq1o2mmf4eTLTr2SETdKxSszJOwyD7P4U1vCHvO+IFg03pYXxXchLsUQsQm99OiVMxC3NvcH+IS1hqAycDzG06VAIWhZ2ZM9NoNjl6IArjFixuIwv3N46m8SKuV+WHa7i3MeZ4la7gshgIwUDCqvqa6qdjmKQ9o1iiqEyz/pTPeV6Pm8lcDbfN0okPVaP/BqHW2VODpvmzXIsWNWgOFbJI53jJhvk/mEuZ1wztgbn4z03krlSU+Ff3iZne76CqQ333cI8rbjNEtDxYmV0++wNy1CLpgEiMrssL9B7tXsfMoCk7zWcadJBfugYd7s5r64KgVuozXaHzNuKOg=='
 
 order-service:
-  url: http://127.0.0.1:8080/order-service/%s/orders
+  url: http://127.0.0.1:8000/order-service/%s/orders
